@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Test-Tag on Albert BLog</title>
+        <link>https://hd0501610.github.io/tags/test-tag/</link>
+        <description>Recent content in Test-Tag on Albert BLog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <copyright>Albert&#39;s BLog, 如需转载请注明出处.</copyright>
+        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://hd0501610.github.io/tags/test-tag/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>test</title>
+        <link>https://hd0501610.github.io/p/test/</link>
+        <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://hd0501610.github.io/p/test/</guid>
+        <description>&lt;h2 id=&#34;正文测试&#34;&gt;正文测试
+&lt;/h2&gt;&lt;p&gt;测试文本: &lt;code&gt;hello world&lt;/code&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
